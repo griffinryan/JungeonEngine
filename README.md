@@ -3,6 +3,7 @@
 ### Overview
 
 - Jungeon Engine - a 2D game engine that powers [DungeonAdventure](https://github.com/TCSS360A/DungeonAdventure)
+
 ![jungeonengine.gif](https://torpoisebucket.s3.us-west-2.amazonaws.com/jungeonengine.gif)
 
 ----
